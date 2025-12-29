@@ -1,4 +1,4 @@
-# Project: team-blue
+# Team Blue Project
 
 ## Tech Stack
 - TypeScript
