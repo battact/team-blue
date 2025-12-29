@@ -89,6 +89,9 @@ dist/
 build/
 out/
 
+# Test Coverage
+coverage/
+
 # Package Files
 *.tgz
 *.zip
